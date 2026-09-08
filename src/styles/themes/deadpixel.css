@@ -1,0 +1,60 @@
+/*
+ * DEADPIXEL — Retro Lo-Fi Computing Theme
+ *
+ * CRT glow. Phosphor green. Pixel-perfect blocks.
+ * For the student who respects the machine.
+ */
+
+[data-theme="deadpixel"] {
+  --color-bg-base: #18181b;
+  --color-bg-surface: #27272a;
+  --color-bg-elevated: #303033;
+  --color-bg-overlay: rgba(24, 24, 27, 0.92);
+  --color-bg-input: #1a1a1d;
+  --color-bg-hover: #3f3f46;
+
+  --color-text-primary: #4ade80;
+  --color-text-secondary: #86efac;
+  --color-text-muted: #52525b;
+  --color-text-inverse: #18181b;
+  --color-text-on-accent: #18181b;
+
+  --color-accent: #22c55e;
+  --color-accent-hover: #16a34a;
+  --color-accent-subtle: rgba(34, 197, 94, 0.1);
+  --color-accent-alt: #eab308;
+  --color-accent-alt-hover: #ca8a04;
+  --color-accent-alt-subtle: rgba(234, 179, 8, 0.1);
+
+  --color-success: #22c55e;
+  --color-warning: #eab308;
+  --color-error: #ef4444;
+  --color-info: #38bdf8;
+
+  --color-border: #3f3f46;
+  --color-border-strong: #52525b;
+  --color-border-input: #3f3f46;
+  --color-border-input-focus: #22c55e;
+
+  --shadow-sm: 2px 2px 0px #000000;
+  --shadow-md: 3px 3px 0px #000000;
+  --shadow-lg: 4px 4px 0px #000000;
+  --shadow-glow: 0 0 12px rgba(34, 197, 94, 0.2);
+
+  --font-heading: 'Press Start 2P', monospace;
+  --font-body: 'VT323', monospace;
+  --font-mono: 'Share Tech Mono', monospace;
+
+  --radius-sm: 0px;
+  --radius-md: 0px;
+  --radius-lg: 0px;
+  --radius-xl: 0px;
+
+  --tracking-wide: 0.06em;
+  --tracking-wider: 0.12em;
+
+  /* Deadpixel-specific: smaller heading scale because pixel fonts are large */
+  --text-3xl: 1.5rem;
+  --text-4xl: 1.75rem;
+  --text-5xl: 2rem;
+}

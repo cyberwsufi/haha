@@ -1,0 +1,55 @@
+/*
+ * THE COLLECTIVE — Committee / Club / Ivy League Theme
+ *
+ * Parchment warmth. Collegiate navy. Structured elegance.
+ * For student organizations that mean business.
+ */
+
+[data-theme="the-collective"] {
+  --color-bg-base: #f8f6f0;
+  --color-bg-surface: #ffffff;
+  --color-bg-elevated: #f1ede4;
+  --color-bg-overlay: rgba(248, 246, 240, 0.92);
+  --color-bg-input: #ffffff;
+  --color-bg-hover: #ede9df;
+
+  --color-text-primary: #0f172a;
+  --color-text-secondary: #475569;
+  --color-text-muted: #94a3b8;
+  --color-text-inverse: #ffffff;
+  --color-text-on-accent: #ffffff;
+
+  --color-accent: #1e3a8a;
+  --color-accent-hover: #1e40af;
+  --color-accent-subtle: rgba(30, 58, 138, 0.06);
+  --color-accent-alt: #991b1b;
+  --color-accent-alt-hover: #b91c1c;
+  --color-accent-alt-subtle: rgba(153, 27, 27, 0.06);
+
+  --color-success: #16a34a;
+  --color-warning: #ca8a04;
+  --color-error: #dc2626;
+  --color-info: #2563eb;
+
+  --color-border: #d6d3cd;
+  --color-border-strong: #a8a29e;
+  --color-border-input: #d1d5db;
+  --color-border-input-focus: #1e3a8a;
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.04);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08);
+  --shadow-glow: 0 4px 14px rgba(30, 58, 138, 0.06);
+
+  --font-heading: 'Cinzel', serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'Share Tech Mono', monospace;
+
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 10px;
+
+  --tracking-wide: 0.04em;
+  --tracking-wider: 0.08em;
+}

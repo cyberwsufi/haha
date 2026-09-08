@@ -1,0 +1,55 @@
+/*
+ * MAIN CHARACTER ENERGY — Portfolio / Editorial Theme
+ *
+ * Warm noir. Gold accents. Architectural precision.
+ * Designed for the student who knows they're the protagonist.
+ */
+
+[data-theme="main-character"] {
+  --color-bg-base: #0c0a09;
+  --color-bg-surface: #171717;
+  --color-bg-elevated: #1c1917;
+  --color-bg-overlay: rgba(12, 10, 9, 0.9);
+  --color-bg-input: #0f0e0d;
+  --color-bg-hover: #292524;
+
+  --color-text-primary: #fafaf9;
+  --color-text-secondary: #a8a29e;
+  --color-text-muted: #78716c;
+  --color-text-inverse: #0c0a09;
+  --color-text-on-accent: #0c0a09;
+
+  --color-accent: #d4af37;
+  --color-accent-hover: #c9a42e;
+  --color-accent-subtle: rgba(212, 175, 55, 0.1);
+  --color-accent-alt: #e5e5e5;
+  --color-accent-alt-hover: #d4d4d4;
+  --color-accent-alt-subtle: rgba(229, 229, 229, 0.08);
+
+  --color-success: #22c55e;
+  --color-warning: #eab308;
+  --color-error: #dc2626;
+  --color-info: #60a5fa;
+
+  --color-border: #292524;
+  --color-border-strong: #44403c;
+  --color-border-input: #292524;
+  --color-border-input-focus: #d4af37;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 6px 20px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.5);
+  --shadow-glow: 0 0 30px rgba(212, 175, 55, 0.08);
+
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'Share Tech Mono', monospace;
+
+  --radius-sm: 0px;
+  --radius-md: 2px;
+  --radius-lg: 4px;
+  --radius-xl: 6px;
+
+  --tracking-wide: 0.08em;
+  --tracking-wider: 0.15em;
+}

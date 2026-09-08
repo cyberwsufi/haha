@@ -1,0 +1,55 @@
+/*
+ * STARFIELD OS — Constellation / Universe Theme
+ *
+ * Deep cosmic voids. Nebula purples. Starlight accents.
+ * Built for dreamers mapping their universe.
+ */
+
+[data-theme="starfield-os"] {
+  --color-bg-base: #030712;
+  --color-bg-surface: #0b132b;
+  --color-bg-elevated: #111b38;
+  --color-bg-overlay: rgba(3, 7, 18, 0.9);
+  --color-bg-input: #070d1f;
+  --color-bg-hover: #162040;
+
+  --color-text-primary: #f8fafc;
+  --color-text-secondary: #94a3b8;
+  --color-text-muted: #64748b;
+  --color-text-inverse: #030712;
+  --color-text-on-accent: #ffffff;
+
+  --color-accent: #8b5cf6;
+  --color-accent-hover: #7c3aed;
+  --color-accent-subtle: rgba(139, 92, 246, 0.1);
+  --color-accent-alt: #38bdf8;
+  --color-accent-alt-hover: #0ea5e9;
+  --color-accent-alt-subtle: rgba(56, 189, 248, 0.08);
+
+  --color-success: #34d399;
+  --color-warning: #fbbf24;
+  --color-error: #f87171;
+  --color-info: #38bdf8;
+
+  --color-border: rgba(139, 92, 246, 0.15);
+  --color-border-strong: rgba(139, 92, 246, 0.3);
+  --color-border-input: rgba(139, 92, 246, 0.12);
+  --color-border-input-focus: #8b5cf6;
+
+  --shadow-sm: 0 2px 6px rgba(139, 92, 246, 0.06);
+  --shadow-md: 0 4px 16px rgba(139, 92, 246, 0.1);
+  --shadow-lg: 0 8px 32px rgba(139, 92, 246, 0.12);
+  --shadow-glow: 0 0 24px rgba(139, 92, 246, 0.15);
+
+  --font-heading: 'Space Grotesk', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'Share Tech Mono', monospace;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 20px;
+
+  --tracking-wide: 0.04em;
+  --tracking-wider: 0.08em;
+}

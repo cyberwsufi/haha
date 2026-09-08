@@ -1,0 +1,11 @@
+export { Home } from './Home';
+export { Explore } from './Explore';
+export { Students } from './Students';
+export { Projects } from './Projects';
+export { ProjectDetails } from './ProjectDetails';
+export { Clubs } from './Clubs';
+export { Events } from './Events';
+export { StudentProfile } from './StudentProfile';
+export { Dashboard } from './Dashboard';
+export { Messages } from './Messages';
+export { Settings } from './Settings';
